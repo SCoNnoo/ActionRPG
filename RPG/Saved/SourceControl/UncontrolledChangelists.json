@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/StarterContent/Maps/Minimal_Default.umap"
+				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/StarterContent/Maps/OpenWorld_HLODLayer_Instanced.uasset",
+				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/StarterContent/Maps/OpenWorld_HLODLayer_Merged.uasset",
+				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/__ExternalActors__/StarterContent/Maps/OpenWorld/1/QP/ESV0CL32Y35L9H7DXD2EM0.uasset",
+				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/__ExternalActors__/StarterContent/Maps/OpenWorld/6/3Z/BFFTLBW5QQEHLGA1XSR48Y.uasset",
+				"C:/Users/s/Documents/GitHub/ActionRPG/RPG/Content/StarterContent/Maps/OpenWorld.umap"
 			]
 		}
 	]
