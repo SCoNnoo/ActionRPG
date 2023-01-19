@@ -1,0 +1,6 @@
+2023/01/19-16:41:34.496 2088 Creating DB C:/Users/s/Documents/GitHub/ActionRPG/RPG/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/01/19-16:41:34.508 2088 Reusing MANIFEST C:/Users/s/Documents/GitHub/ActionRPG/RPG/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/19-16:41:58.497 3310 Level-0 table #5: started
+2023/01/19-16:41:58.501 3310 Level-0 table #5: 7203 bytes OK
+2023/01/19-16:41:58.504 3310 Delete type=0 #3
+2023/01/19-16:41:58.504 3310 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
